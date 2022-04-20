@@ -47,7 +47,7 @@
             background-color: green;
         }
         .container{
-            width: 15%;
+            width: 200px;
         }
     </style>
     <main>
